@@ -1,2 +1,3 @@
 # harsh
-my name is harsh patil
+author = harsh patil
+
