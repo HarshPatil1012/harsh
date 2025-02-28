@@ -1,5 +1,5 @@
 # harsh
-author = harsh patil
+author = harsh J. patil
 <br>
 i am learning git / github
 
